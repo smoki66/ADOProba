@@ -10,6 +10,8 @@ namespace ADOProba
     {
         static void Main(string[] args)
         {
+            int i = 9;
+            Console.WriteLine("Pozdrav"+i.ToString());
         }
     }
 }
